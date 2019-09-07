@@ -6,8 +6,8 @@ Todas las contribuciones son bienvenidas, pero para que las cosas salgan bien tr
 - Enviar una corrección
 - Proponer nuevas funcionalidades
 
-## GitHub para el código y Azure DevOps para el Board
-Usamos github para el código y [Azure DevOps](https://dev.azure.com/casanaredev) para el backlog (caracteristicas y problemas)
+## GitHub 
+Usamos github para el código y para el backlog (caracteristicas y problemas)
 
 ## Seguimos [Github Flow](https://guides.github.com/introduction/flow/index.html)
 Git Hub Flow nos garantiza el adecuado uso de los PRs (Pull Request) 
