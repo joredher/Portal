@@ -12,6 +12,26 @@ Casanare.Dev busca ser un espacio de contacto entre desarrolladores, empresas y 
 
 Creemos que compartir nuestro conocimiento no hace otra cosa que aumentarlo ¡Transparencia y colaboración!
 
+### ¿Por qué crearlo si podemos usar wix?
+Porque si :) . La idea es crear algo en común, que salga del esfuerzo de todos y que mostremos lo que sabemos hacer.
+
+### ¿En que plataforma?
+La idea es que nos organicemos y hagamos una vaina como en el mundo real, multiplataforma, php, .net, nodejs, java o cualquier tecnologia que cumpla el objetivo que buscamos (y que soporte mi hosting  linux, o el que alguien quiera aportar).
+
+Propongo el uso de la arquitectura basada en microservicios, de tal manera que podamos determinar servicios en diferentes plataformas y crear pequeños equipos por cada uno.
+
+### ¿Como contribuir?
+La idea es que juntemos lo que sabemos, en backend, frontend, diseño, redes sociales, con cerveza, pizza, gestionando el hosting o simplemente ayudando a probar y dando ideas.
+
+### ¿Quien se lleva el crédito?
+Todos y ninguno, la idea es crear comunidad, alejados de la sana competencia entre empresas o desarrolladores. Como se registrará el github, el crédito se verá reflejado en reputación.
+
+### ¿Cuanto tiempo me llevará?
+Lo que cada quien pueda, yo personalmente, voy a usar el proyecto para aprender algunas cositas que estoy sintiendo necesarias (Clean Arquitecture, TDD, DDD y microservicios).
+
+### Cuando lanzariamos el producto?
+La idea es reunirnos (asi sea virtualmente) y hacer una pequeña planeación de sprints y determinar que vamos lanzando en el tiempo, registrar estas tareas en un tablero y cuando cumplamos un primer sprint lanzar el producto.
+
 ## Tabla de Contenido
 
 - [Contribuciones](#contribuir)
