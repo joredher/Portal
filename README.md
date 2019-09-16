@@ -24,7 +24,7 @@ Propongo el uso de la arquitectura basada en microservicios, de tal manera que p
 La idea es que juntemos lo que sabemos, en backend, frontend, diseño, redes sociales, con cerveza, pizza, gestionando el hosting o simplemente ayudando a probar y dando ideas.
 
 ### ¿Quien se lleva el crédito?
-Todos y ninguno, la idea es crear comunidad, alejados de la sana competencia entre empresas o desarrolladores. Como se registrará el github, el crédito se verá reflejado en reputación.
+Todos y ninguno, la idea es crear comunidad, independientemente de la empresa o equipo en el que estemos trabajando y como se registrará en github, el crédito se verá reflejado en la reputación y contribuciones.
 
 ### ¿Cuanto tiempo me llevará?
 Lo que cada quien pueda, yo personalmente, voy a usar el proyecto para aprender algunas cositas que estoy sintiendo necesarias (Clean Arquitecture, TDD, DDD y microservicios).
