@@ -6,7 +6,9 @@ Portal Web de los Desarrolladores de Software de Casanare.
 Esta es un espacio construido por nosotros y que busca compartir nuestro conocimiento y crecer profesionalmente de manera colaborativa.
 
 ## ¿Que es casanare.dev?
-Es una plataforma que nos permite compartir nuestro portafolio, escribir sobre software (o cualquier cosa geek que se nos venga a la cabeza), discutir sobre diferentes asuntos y crecer profesionalmente y personalmente.
+Es una plataforma que nos permite compartir nuestro portafolio, experiencia, lenguajes y plataformas, escribir sobre software (o cualquier cosa geek que se nos venga a la cabeza), discutir sobre diferentes asuntos y crecer profesionalmente y personalmente.
+
+Casanare.Dev busca ser un espacio de contacto entre desarrolladores, empresas y entidades, permitiendo con esto visibilizar el sector en la región.
 
 Creemos que compartir nuestro conocimiento no hace otra cosa que aumentarlo ¡Transparencia y colaboración!
 
