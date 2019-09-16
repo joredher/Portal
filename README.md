@@ -29,8 +29,11 @@ Todos y ninguno, la idea es crear comunidad, independientemente de la empresa o 
 ### ¿Cuanto tiempo me llevará?
 Lo que cada quien pueda, yo personalmente, voy a usar el proyecto para aprender algunas cositas que estoy sintiendo necesarias (Clean Arquitecture, TDD, DDD y microservicios).
 
-### Cuando lanzariamos el producto?
+### ¿Cuando lanzariamos el producto?
 La idea es reunirnos (asi sea virtualmente) y hacer una pequeña planeación de sprints y determinar que vamos lanzando en el tiempo, registrar estas tareas en un tablero y cuando cumplamos un primer sprint lanzar el producto.
+
+### ¿Como vincularme?
+Primero, registrarse en [El Grupo de Slack](https://join.slack.com/t/casanaredevs/shared_invite/enQtNzU1OTA1MzczNTIxLTFhYTc5ZjQ1MTdiM2I5MGJlMzZiZWY2ZjQ1MTc5Mjc4MGQ4ODhiMzU2N2FhYmYyYWQ1NWJmOGEwZDdlNWYxNGM) 
 
 ## Tabla de Contenido
 
