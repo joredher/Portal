@@ -62,7 +62,7 @@ Según la arquitectura propuesta tenemos las siguientes tecnologias:
     - Servicio Auth: Pendiente
 - FrontEnd: Pendiente
 - Api Gateway: Pendiente
-- Infraestructura: Docker para cada servicio y UI
+- Infraestructura: Docker para cada servicio y UI.
 - CI/CD: Azure DevOps nos da la oportunidad de usarlo grátis para proyecto (Propongo usarlo)
 
 ## Instalación
