@@ -22,13 +22,13 @@ Puede seguir estos pasos para participar:
 6. Envíe el pull request!
 
 ## Todas las contribuciones serán hechas bajo la **MIT Software License**
-En otras palabras, cuando envia código, debe realizarlo bajo las mismas normas de [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+En otras palabras, cuando envia código, debe realizarlo bajo las mismas normas de [MIT License](http://choosealicense.com/licenses/mit/).
 
 ## Reporte de errores
-Para reportar problemas **[issues](https://github.com/casanaredevs/Portal/issues)
+Para reportar problemas **[issues](https://github.com/casanaredevs/Portal/issues)**
 
 ## Reporte el problema con el mayor detalle posible
 ¡Muestranos el código! Es tal vez la mejor (o única) forma de entender en que estamos fallando.
 
-## Código fácil de leer (por los humanos=
+## Código fácil de leer (por los humanos)
 Es idea seguir buenas prácticas de desarrollo
