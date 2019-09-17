@@ -33,7 +33,7 @@ Lo que cada quien pueda, yo personalmente, voy a usar el proyecto para aprender 
 La idea es reunirnos (asi sea virtualmente) y hacer una pequeña planeación de sprints y determinar que vamos lanzando en el tiempo, registrar estas tareas en un tablero y cuando cumplamos un primer sprint lanzar el producto.
 
 ### ¿Como vincularme?
-Primero, registrarse en [El Grupo de Slack](https://join.slack.com/t/casanaredevs/shared_invite/enQtNzU1OTA1MzczNTIxLTFhYTc5ZjQ1MTdiM2I5MGJlMzZiZWY2ZjQ1MTc5Mjc4MGQ4ODhiMzU2N2FhYmYyYWQ1NWJmOGEwZDdlNWYxNGM) 
+Usaremos [El Grupo de Slack](https://join.slack.com/t/casanaredevs/shared_invite/enQtNzU1OTA1MzczNTIxLTFhYTc5ZjQ1MTdiM2I5MGJlMzZiZWY2ZjQ1MTc5Mjc4MGQ4ODhiMzU2N2FhYmYyYWQ1NWJmOGEwZDdlNWYxNGM) como herramienta de comunicación del grupo, el objetivo es que cada quien pueda usarlo cuando pueda y según su tiempo.
 
 ## Tabla de Contenido
 
@@ -54,11 +54,27 @@ Si quieres participar del desarrollo de **[casanare.dev](https://casanare.dev)**
 ## Introducción
 ### Arquitectura
 ### Tecnologías usadas
+Según la arquitectura propuesta tenemos las siguientes tecnologias:
+- BackEnd
+    - Servicio Portafolio: Pendiente
+    - Servicio Blog: Pendiente
+    - Servicio CMS: Pendiente
+    - Servicio Auth: Pendiente
+- FrontEnd: Pendiente
+- Api Gateway: Pendiente
+- Infraestructura: Docker para cada servicio y UI
+- CI/CD: Azure DevOps nos da la oportunidad de usarlo grátis para proyecto (Propongo usarlo)
 
 ## Instalación
+Pendiente
 ### Prerequisitos
+Pendiente
 ### Guia de Instalación
+Pendiente
 ### Como ejecutar
+Pendiente
 
 ## Participantes del desarrollo
-## Licencia
+- Juan David Pareja Soto **[parejajd](https://github.com/parejajd)**
+(Poner nombres acá)
+## [Licencia](LICENSE)
