@@ -53,6 +53,10 @@ Si quieres participar del desarrollo de **[casanare.dev](https://casanare.dev)**
 
 ## Introducción
 ### Arquitectura
+La arquitectura propuesta es la siguiente
+
+![Diagrama de Arquitectura](https://github.com/casanaredevs/Portal/blob/master/Casanare%20Devs-Page-2.png)
+
 ### Tecnologías usadas
 Según la arquitectura propuesta tenemos las siguientes tecnologias:
 - BackEnd
@@ -60,6 +64,7 @@ Según la arquitectura propuesta tenemos las siguientes tecnologias:
     - Servicio Blog: Pendiente
     - Servicio CMS: Pendiente
     - Servicio Auth: Pendiente
+    - Servicio Monitoreo: Pendiente
 - FrontEnd: Pendiente
 - Api Gateway: Pendiente
 - Infraestructura: Docker para cada servicio y UI.
