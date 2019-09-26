@@ -111,6 +111,7 @@ Pendiente
 ## Participantes del desarrollo
 
 - Juan David Pareja Soto **[parejajd](https://github.com/parejajd)**
+- Jorge Eduardo Hernández Oropeza **[joredher](https://github.com/joredher)**
 (Poner nombres acá)
 
 ## [Licencia](LICENSE)
